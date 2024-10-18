@@ -1,0 +1,22 @@
+input{
+    width: 300px;
+    margin: 10px;
+}
+
+p{
+    margin: 10px;
+}
+
+select{
+    margin: 10px;
+}
+
+label{
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+    background-color: green;
+    color: white;
+}
